@@ -1,0 +1,30 @@
+源码使用教程
+
+配置 文件有几个
+
+core/common
+如果只是做码支付就弄上面一个就行
+
+做即时到账 就弄 这三个 做代收款！
+
+core/alipay/cacert
+
+core/qqpay
+
+core/epay
+
+
+后台地址http://你的域名/admin
+
+后台帐号：admin 密码：123456
+
+
+PHP版本请使用5.2
+
+数据库修改地址：core\common.php
+
+记得导入数据库:cs.sql
+
+
+
+www.ziyuan.tv
